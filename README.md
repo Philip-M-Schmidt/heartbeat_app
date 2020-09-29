@@ -4,7 +4,7 @@ Measurement and image processing code by: Manuel Reyes-Sanchez | https://github.
 and Justin Wetherell <phishman3579@gmail.com> | https://github.com/phishman3579/android-heart-rate-monitor
 
 Homepage with result of the measurement: 
-![](https://github.com/Philip-M-Schmidt/heartbeat_app/blob/master/heartrate/Screenshot_20200929-174115.jpg)
+![](https://github.com/Philip-M-Schmidt/heartbeat_app/blob/master/heartrate/Screenshot_20200929-174115.jpg =400x200)
 
 Measurement of the tip of the indexfinger by holding your finger on the main camera. Image ist processed by the modulation of the microvascularization which moves the skin of the finger. Viewable by the camera if you look closely:
 ![](https://github.com/Philip-M-Schmidt/heartbeat_app/blob/master/heartrate/Screenshot_20200929-174124.jpg)
